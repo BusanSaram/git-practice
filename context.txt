@@ -2,6 +2,5 @@ dflskdfjsdlfsdjfsalkdfj
 
 manager: Kyungmin
 
-
-members :
-- Arachi
+memebers:
+- jeonuchi
