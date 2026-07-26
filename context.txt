@@ -3,4 +3,4 @@ dflskdfjsdlfsdjfsalkdfj
 manager: Kyungmin
 
 memebers:
-- jeonuchi
+- jeonuchi 1
