@@ -7,3 +7,4 @@ memebers:
 - jeonuchi
 - donggu
 - mongu
+- honggu
