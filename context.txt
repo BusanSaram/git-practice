@@ -4,3 +4,5 @@ manager: Kyungmin
 
 memebers:
 - jeonuchi 1
+- jeonuchi
+- donggu
