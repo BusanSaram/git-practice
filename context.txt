@@ -1,3 +1,7 @@
 dflskdfjsdlfsdjfsalkdfj
 
 manager: Kyungmin
+
+
+members :
+- Arachi
