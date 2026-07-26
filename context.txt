@@ -6,3 +6,4 @@ memebers:
 - jeonuchi 1
 - jeonuchi
 - donggu
+- mongu
