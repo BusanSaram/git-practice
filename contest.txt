@@ -1,4 +1,5 @@
 fdlkajflksdajfslkdfdkdkfkfkdkdkdfdfsdfsdfasfasdfsd아무내용이나 씀
+team : Jungle Jaguars
 coach : Lupi
 
 manager : Dooli
