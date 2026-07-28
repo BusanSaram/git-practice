@@ -1,6 +1,6 @@
 dflskdfjsdlfsdjfsalkdfj
 
-manager: Kyungmin
+manager: Moon
 
 memebers:
 - jeonuchi 1
